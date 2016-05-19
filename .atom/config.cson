@@ -1,0 +1,33 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "ab5cc26f-0c9c-4c8c-9a15-4894d1afdb3d"
+  core:
+    excludeVcsIgnoredPaths: false
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "13fe14b4-22d8-0e82-d172-2ef97e9d6262"
+  "git-plus":
+    gitPath: "/usr/bin/git"
+  linter:
+    errorPanelHeight: 80
+  "markdown-pdf": {}
+  "markdown-preview": {}
+  minimap:
+    plugins:
+      "split-diff": true
+      "split-diffDecorationsZIndex": 0
+  pigments: {}
+  "spell-check": {}
+  "todo-show": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  "vim-mode": {}
+  welcome:
+    showOnStartup: false
+".diff.source":
+  editor:
+    showInvisibles: false
